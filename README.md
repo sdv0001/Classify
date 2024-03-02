@@ -1,4 +1,5 @@
 # Classify
+![Classify Banner](docs/classifyBanner.png)
 # What is Classify?
 
 Classify is a **mobile application** designed to enhance the university experience. Leveraging cutting-edge technologies, **it simplifies campus navigation and promotes academic engagement**. 
