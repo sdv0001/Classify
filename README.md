@@ -44,3 +44,7 @@ Discover **professors office hours availability** by scanning office nameplates.
 - **Office Hours**: If scanned during the faculty's office hours, it indicates that the professor may be in the office.
 - **Teaching in Progress**: If the faculty is engaged in a lecture, details such as the room, schedule, and course name will be provided.
 - **Out of Office Hours**: If the faculty is neither in the office for office hours nor in the classroom for lectures, a warning message will be displayed.
+
+# OS Compatible
+- **iOS**
+- **Android**
