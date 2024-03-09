@@ -51,7 +51,7 @@ Discover **professors office hours availability** by scanning office nameplates.
 
 # Contributing
 
-- Antonio Giordano
-- Giuseppe Adduce
-- Marco Di Maio
-- Marco Fusco
+- Antonio Giordano | University of Salerno | Cybersecurity Field
+- Giuseppe Adduce | University of Salerno | Cybersecurity Field
+- Marco Di Maio | University of Salerno | Data Science Field
+- Marco Fusco | University of Salerno | Cybersecurity Field
