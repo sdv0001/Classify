@@ -48,3 +48,10 @@ Discover **professors office hours availability** by scanning office nameplates.
 # OS Compatible
 - **iOS**
 - **Android**
+
+# Contributing
+
+- Antonio Giordano
+- Giuseppe Adduce
+- Marco Di Maio
+- Marco Fusco
