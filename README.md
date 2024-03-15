@@ -30,14 +30,14 @@ In the development of Classify, a combination of technologies has been employed 
 
 - **Unity**: Implements and describes Unity's AR Foundation framework, focusing on AR camera capabilities. This integration fully utilizes augmented reality features, offering an engaging and interactive experience.
 
-# Features: Classroom/Laboratory Scanning
+# 1. Feature: Classroom/Laboratory Scanning
 
 Discover **real-time classroo**m and **laboratory availability** with a simple scan.
 
 - **Available Classroom**: If scanned when the room is not in use, it indicates that the room is available, along with any scheduled courses for later.
 - **Occupied Classroom**: If the room is in use during the scan, it shows information about the ongoing class and, if applicable, details about future courses.
 
-# Features: Professors Office Scanning
+# 2. Feature: Professors Office Scanning
 
 Discover **professors office hours availability** by scanning office nameplates.
 
