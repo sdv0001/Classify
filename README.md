@@ -37,7 +37,7 @@ Discover **real-time classroo**m and **laboratory availability** with a simple s
 - **Available Classroom**: If scanned when the room is not in use, it indicates that the room is available, along with any scheduled courses for later.
 - **Occupied Classroom**: If the room is in use during the scan, it shows information about the ongoing class and, if applicable, details about future courses.
 
-# Features: Faculty Office Scanning
+# Features: Professors Office Scanning
 
 Discover **professors office hours availability** by scanning office nameplates.
 
