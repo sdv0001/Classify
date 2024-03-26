@@ -55,3 +55,6 @@ Discover **professors office hours availability** by scanning office nameplates.
 - Giuseppe Adduce | University of Salerno | Cybersecurity Field
 - Marco Di Maio | University of Salerno | Data Science Field
 - Marco Fusco | University of Salerno | Cybersecurity Field
+
+# DEMO
+![Classify Banner](docs/Demo.mp4)
