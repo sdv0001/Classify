@@ -57,4 +57,5 @@ Discover **professors office hours availability** by scanning office nameplates.
 - Marco Fusco | University of Salerno | Cybersecurity Field
 
 # DEMO
-![Classify Banner](docs/Demo.mp4)
+
+![Classify Demo APP](docs/Demo.mp4)
