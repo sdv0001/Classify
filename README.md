@@ -52,7 +52,7 @@ Discover **professors office hours availability** by scanning office nameplates.
 # Contributing
 
 - Antonio Giordano | University of Salerno | Cybersecurity Field
-- Giuseppe Adduce | University of Salerno | Cybersecurity Field
+- [Giuseppe Adduce](https://github.com/zakkk97) | University of Salerno | Cybersecurity Field
 - Marco Di Maio | University of Salerno | Data Science Field
 - Marco Fusco | University of Salerno | Cybersecurity Field
 
