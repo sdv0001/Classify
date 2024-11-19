@@ -58,8 +58,16 @@ Discover **professors office hours availability** by scanning office nameplates.
 
 # DEMO
 
-![Classify Demo APP](docs/Demo.mp4)
+
+https://github.com/user-attachments/assets/fc4e7996-83e4-40d0-a2ac-a478bc3c814e
+
+
+
 
 # Fake Commercial Spot
 
-![Classify Fake Commercial Spot](docs/FakeCommercialSpot.mp4)
+https://github.com/user-attachments/assets/0a8a51b7-b439-4d1c-885a-0f6894d5d23c
+
+
+
+
